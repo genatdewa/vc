@@ -6,7 +6,7 @@ body {
 
 .left-container    {
     position: fixed;   
-    width: 400px;
+    width: 35vw;
     height: 100vh;
     background-color: rgb(45, 208, 208);
     text-align: center;
