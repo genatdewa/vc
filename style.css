@@ -42,7 +42,7 @@ body {
 
 .right-container {
     position: absolute;
-    left: 401px;
+    left: 35.01vw;
     width: calc(100% - 401px);
     height: 100vh;
 }
