@@ -52,7 +52,7 @@ body {
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 100px;
-    width: calc(100% - 450px);
+    width: calc(100% - 35vw);
     background-color: skyblue;
 }
 
