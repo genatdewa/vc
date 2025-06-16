@@ -13,7 +13,7 @@ body {
 }
 
 .h1 {
-    font-size: 3vw;
+    font-size: 2vw;
 }
 
 .h2 {
@@ -26,7 +26,7 @@ body {
 
 .photo-contact {
     position: absolute;
-    top: 7vw;
+    top: 10vw;
     text-align: center;
 }
 
