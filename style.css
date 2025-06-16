@@ -16,9 +16,11 @@ body {
     font-size: 3vw;
 }
 
-.h2 {
+.h2 p {
     font-size: 2vw;
 }
+
+
 
 .photo-contact {
     position: absolute;
