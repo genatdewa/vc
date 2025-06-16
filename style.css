@@ -12,13 +12,17 @@ body {
     text-align: center;
 }
 
+.h1 {
+    font-size: 3vw;
+}
+
 .h2 {
     font-size: 2vw;
 }
 
 .photo-contact {
     position: absolute;
-    top: 5vw;
+    top: 7vw;
     text-align: center;
 }
 
@@ -84,32 +88,32 @@ a {
 #profile {
     padding-top: 7vw;
     padding-left: 3vw;
-    padding-bottom: 25vw;
+    padding-bottom: 35vw;
 }
 
 #about {
     padding-top: 7vw;
-    padding-left: 3vw;
-    padding-bottom: 25vw;
-    font-size: 1vw;    
+    padding-left: 3vw;  
+    padding-bottom: 35vw;
+    font-size: 1.5vw;    
 }
 
 #contact {
     padding-top: 7vw;
     padding-left: 3vw;
-    padding-bottom: 25vw;
+    padding-bottom: 35vw;
 }
 
 #projects {
     padding-top: 7vw;
     padding-left: 3vw;
-    padding-bottom: 25vw;
+    padding-bottom: 35vw;
 }
 
 #skills {
     padding-top: 7vw;
     padding-left: 3vw;
-    padding-bottom: 25vw;
+    padding-bottom: 35vw;
 }
 
 .footer {
